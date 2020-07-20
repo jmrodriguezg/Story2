@@ -1,1 +1,2 @@
 This is the second story.
+This is new line added to chapter 1.
